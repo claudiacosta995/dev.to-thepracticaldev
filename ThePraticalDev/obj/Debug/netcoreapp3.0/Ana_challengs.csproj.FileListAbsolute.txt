@@ -1,0 +1,11 @@
+C:\Users\dontf\source\repos\Ana_challengs\bin\Debug\netcoreapp3.0\Ana_challengs.exe
+C:\Users\dontf\source\repos\Ana_challengs\bin\Debug\netcoreapp3.0\Ana_challengs.deps.json
+C:\Users\dontf\source\repos\Ana_challengs\bin\Debug\netcoreapp3.0\Ana_challengs.runtimeconfig.json
+C:\Users\dontf\source\repos\Ana_challengs\bin\Debug\netcoreapp3.0\Ana_challengs.runtimeconfig.dev.json
+C:\Users\dontf\source\repos\Ana_challengs\bin\Debug\netcoreapp3.0\Ana_challengs.dll
+C:\Users\dontf\source\repos\Ana_challengs\bin\Debug\netcoreapp3.0\Ana_challengs.pdb
+C:\Users\dontf\source\repos\Ana_challengs\obj\Debug\netcoreapp3.0\Ana_challengs.csprojAssemblyReference.cache
+C:\Users\dontf\source\repos\Ana_challengs\obj\Debug\netcoreapp3.0\Ana_challengs.AssemblyInfoInputs.cache
+C:\Users\dontf\source\repos\Ana_challengs\obj\Debug\netcoreapp3.0\Ana_challengs.AssemblyInfo.cs
+C:\Users\dontf\source\repos\Ana_challengs\obj\Debug\netcoreapp3.0\Ana_challengs.dll
+C:\Users\dontf\source\repos\Ana_challengs\obj\Debug\netcoreapp3.0\Ana_challengs.pdb
